@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=220&section=header&text=Sam%20D%20Val&fontSize=45&animation=fadeIn&fontAlignY=40&desc=Analista%20•%20Desarrollador%20•%20Guía%20Espiritual&descAlignY=60&descSize=18" width="100%" alt="Header con nombre y roles" />
 </p>
