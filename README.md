@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=220&section=header&text=Sam%20D%20Val&fontSize=45&animation=fadeIn&fontAlignY=40&desc=Analista%20•%20Desarrollador%20•%20Guía%20Espiritual&descAlignY=60&descSize=18" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=220&section=header&text=Sam%20D%20Val&fontSize=45&animation=fadeIn&fontAlignY=40&desc=Consultor%20de%20IA%20•%20Desarrollador%20•%20Polímata&descAlignY=60&descSize=18" width="100%" alt="Header" />
 </p>
 
 <div align="center">
@@ -20,12 +20,12 @@
 
 > *"Construyo puentes entre la tecnología, la humanidad y lo divino."*
 
-Soy un **Polímata en desarrollo** 🧭 que fusiona el rigor técnico del software con la sensibilidad de la comunicación y la integridad espiritual. Actualmente creo soluciones con propósito como **Consultor TIC en RSM Colombia**.
+Polímata en desarrollo 🧭 que combina el desarrollo de software con la integración de inteligencia artificial, el marketing digital y el liderazgo social. Actualmente lidero el **diseño y despliegue de agentes de IA y flujos de trabajo automatizados** como Consultor Empresarial en **RSM Colombia**, y en paralelo desarrollo mis propias herramientas de software con arquitecturas locales y en la nube.
 
 ✨ **Lo que me define:**
-- 🎯 **Enfoque:** IA Ética, Azure Cloud y automatización inteligente
-- 🕊️ **Propósito:** Servir con excelencia técnica y claridad espiritual en cada proyecto
-- 🌱 **Crecimiento:** Aprendizaje continuo con base en la fe y la disciplina
+- 🎯 **Enfoque:** orquestación de agentes de IA, automatización con n8n/Ollama y desarrollo de producto propio
+- 🕊️ **Propósito:** servir con excelencia técnica y claridad espiritual en cada proyecto
+- 🌱 **Crecimiento:** aprendizaje continuo con base en la fe y la disciplina
 
 ---
 
@@ -33,19 +33,23 @@ Soy un **Polímata en desarrollo** 🧭 que fusiona el rigor técnico del softwa
 
 ```mermaid
 graph LR
-    A[Desarrollo] --> B[Python • JS • Node.js]
-    A --> C[HTML5 • CSS3]
-    D[Cloud & DevOps] --> E[Azure • Git • GitHub]
-    F[Comunicación] --> G[YouTube • Canva • Marketing]
+    A[Desarrollo] --> B[Python • Rust • JS]
+    A --> C[HTML5 • CSS3 • PHP]
+    D[IA & Automatización] --> E[n8n • Ollama LLMs locales]
+    D --> F[Claude Code • Codex]
+    G[Cloud & DevOps] --> H[Docker • Azure • Git/GitHub]
+    I[Datos] --> J[MySQL]
 ```
 
 ### 🔧 Herramientas Principales
 
 | Categoría | Tecnologías |
 |-----------|-------------|
-| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Cloud & Tools** | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **IA & Automatización** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) |
+| **Cloud & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Bases de datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **Creatividad** | ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
 
 ---
@@ -56,9 +60,10 @@ graph LR
 
 | Proyecto | Descripción | Tecnologías | Estado |
 |----------|-------------|-------------|--------|
-| **NITS MVP** | Sistema de información para stakeholders | Python • Azure | ✅ Completado |
-| **AI Orchestration** | Agentes inteligentes para automatización empresarial | Python • Node.js | 🔄 En desarrollo |
-| **Polymath Labs** | Brand personal: contenido sobre mente, cuerpo y alma | YouTube • Markdown | 🌱 Activo |
+| **CATA** 🔗 [catagenerator.com](https://catagenerator.com) | Plataforma SaaS automatizada para generación de catálogos comerciales | Python • n8n • Ollama • Docker | 🔄 En despliegue |
+| **Nexus** | Herramienta para análisis estructural y exportación de datos | Python • Docker | ✅ Activo |
+| **Agentes de IA — RSM Colombia** | Diseño y despliegue de agentes de IA y flujos de automatización empresarial, con foco en escalabilidad y alta disponibilidad usando LLMs locales | Python • Docker • Ollama | 🔄 En producción |
+| **Polymath Labs** | Marca personal: contenido sobre mente, cuerpo y desarrollo profesional | YouTube • Canva | 🌱 Activo |
 
 </div>
 
@@ -81,18 +86,20 @@ graph LR
 
 ## 🎓 Formación & Certificaciones
 
-🎓 **Tecnólogo en Análisis y Desarrollo de Software** — SENA | 2024–2026
+🎓 **Tecnólogo en Análisis y Desarrollo de Software** — SENA | 2024–2026 (finaliza 10 ago. 2026)
 
 ✅ **Certificaciones:**
 
 | Certificación | Organización |
 |--------------|-------------|
-| CS50x — Computer Science Fundamentals | Harvard |
-| Security, Identity & Compliance | Microsoft Azure |
-| Diplomado en Participación Ciudadana | Personería de Bogotá |
-| Inglés Técnico B1/B2 | SENA |
+| CS50's Introduction to Computer Science | HarvardX |
+| Fundamentos de nube y ciberseguridad en Microsoft Azure | U. de los Andes / Microsoft |
+| Marketing Digital (48 h) | SENA |
+| Negociación de Productos en Redes Sociales (48 h) | SENA |
+| English Does Work – Level 5 (48 h) | SENA |
+| Diplomado en Participación Ciudadana y Control Social (120 h) | Personería de Bogotá / U. Distrital |
 
-🔭 **Próximo objetivo:** Certificación Azure Developer (2026)
+🔭 **En preparación:** Microsoft Certified — Azure AI Fundamentals (AI-900)
 
 ---
 
@@ -100,6 +107,9 @@ graph LR
 
 > *"Sam ha demostrado un talento excepcional para transformar ideas complejas en soluciones técnicas claras y efectivas."*
 > — Feedback de stakeholders senior en RSM Colombia
+
+★ Reconocimiento de la Alcaldía Local de Ciudad Bolívar por su aporte al Consejo Consultivo Local de Niños, Niñas y Adolescentes (2023)
+★ Participación en el proyecto "¡Qué Nota! La música, mi lugar seguro" — Fundación San Antonio
 
 ---
 
