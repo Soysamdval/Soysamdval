@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=220&section=header&text=Sam%20D%20Val&fontSize=45&animation=fadeIn&fontAlignY=40&desc=Consultor%20de%20IA%20•%20Desarrollador%20•%20Polímata&descAlignY=60&descSize=18" width="100%" alt="Header" />
-</p>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-esteban-sánchez-moreno-04b329359)
@@ -10,7 +6,6 @@
 [![Polymath Labs](https://img.shields.io/badge/Polymath%20Labs-Mi%20Marca-7B68EE?style=flat&logo=starship&logoColor=white)](https://github.com/Soysamdval)
 
 <img src="https://komarev.com/ghpvc/?username=SamDVal&label=👁️%20Visitantes&color=0e75b6&style=flat-square" alt="Contador de visitas" />
-<img src="https://img.shields.io/github/followers/SamDVal?label=⭐%20Seguidores&style=flat-square&color=0e75b6" alt="Seguidores GitHub" />
 
 </div>
 
